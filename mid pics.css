@@ -1,0 +1,11 @@
+body{background-color: blanchedalmond;}
+.text{   width:250px;
+    padding-top:5px;
+    border-style: double;
+    border-color:yellowgreen;
+    border-width:1px;
+    padding-left:3px;
+    padding-bottom:10px;
+    background-color: rebeccapurple;
+    font-family: 'Courier New', Courier, monospace;
+    color:black;}

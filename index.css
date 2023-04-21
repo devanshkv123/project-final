@@ -1,0 +1,32 @@
+
+body{background-image: url(./photo/home.jpg); background-size: cover; }
+.navbar{width:100%;
+height:15VH;
+margin: auto;
+display: flex;
+align-items: center;}
+
+    nav{flex:1;
+    padding-left:60px; background-color: antiquewhite;}
+
+    nav ul li{ font-family: 'Courier New', Courier, monospace;color: beige;background-color: aquamarine;
+        font-size: 25px;
+        display: inline-block;
+    list-style: none;
+margin: 0px 80px;}
+
+nav ul li{text-decoration: none;}
+
+.tittle{background-color:lightcyan;
+    padding-top:5px;
+    border-style: double;
+    border-color:#336699;
+    padding-left:3px;
+    padding-bottom:10px;
+    font-family: 'Courier New', Courier, monospace;
+    color:rebeccapurple;
+    }
+    
+    .tittle p{font-size: 35px;}
+
+
